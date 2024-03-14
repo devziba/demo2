@@ -1,3 +1,3 @@
 # demo2
-<h1>author - ziba devvrat ashokbhai</h1><br>
+<author - ziba devvrat ashokbhai<br>
 proffesion-student
